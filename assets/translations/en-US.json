@@ -1,0 +1,32 @@
+{
+  "keywords": {
+    "next": "Next",
+    "skip": "Skip",
+    "cancel": "Cancel",
+    "signOut": "Sign out",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "Ok",
+    "all": "All"
+  },
+  "homePage": {
+    "hello": "Hello, {name}\uD83E\uDD1A",
+    "level": "{level} LVL",
+    "points": "Points",
+    "energy": "Energy",
+    "coins": "Coins",
+    "rewards": "Rewards",
+    "welcomeToGlowyStore": "Welcome to Glowy store",
+    "completeTasks": "Complete tasks and earn coin to buy the\nbest rewards",
+    "habits": "Habits",
+    "cool": "Cool!",
+    "areYouSure": "Are you sure you want to remove the habit?",
+    "task": "Today tasks",
+    "willDone": "Will done",
+    "notDone": "Not done",
+    "nextTime" : "Next time it will work",
+    "delete" : "Delete",
+    "expired"  : "Deadline Expiried"
+  }
+}
